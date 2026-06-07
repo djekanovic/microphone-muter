@@ -1,6 +1,6 @@
 # 🎙️ Microphone Muter
 
-![Microphone Muter](muteicon.png)
+![Microphone Muter](cover.png)
 
 **The simplest way to mute your microphone in one click!**
 
